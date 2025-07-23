@@ -7,10 +7,9 @@ Reputacja  pozwala innym graczom nagradzać Cię za pomoc, aktywność lub po pr
 
 📌 Twoja reputacja jest widoczna w komendzie .profil.
 
-Wszystkie repy mają swoje ID:  
-<img width="370" height="86" alt="image" src="https://github.com/user-attachments/assets/cc2bc8ad-5400-4068-b4eb-1d3465209911" />
-Przy złamaniu regulaminu w repach, jest nakładany ban na repy.
-<img width="420" height="68" alt="image" src="https://github.com/user-attachments/assets/15e8e045-e33d-4b2d-87a4-6f4485f03d9d" />
+Wszystkie repy mają swoje ID. Przy złamaniu regulaminu, osoba zostawiająca dostaje blokadę na repy na 10 dni.
+
+<img width="485" height="478" alt="image" src="https://github.com/user-attachments/assets/6d130840-af87-4312-aac3-b5fb6657e675" />
 
 
 # 🏅 Odznaki
