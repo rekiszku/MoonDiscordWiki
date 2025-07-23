@@ -14,7 +14,7 @@ Przykład użycia: `?sklep`
 
 
 
-#?kup <nazwa>  - Kupywanie przedmiotów
+# ?kup <nazwa>  - Kupywanie przedmiotów
 
 Kupuje wskazany przedmiot ze sklepu.
 Po zakupie, przedmiot trafia do twojego ekwipunku `?ekwipunek`
@@ -22,7 +22,7 @@ Przykład użycia: `?kup cash28d`
 
 
 
-#?uzyj <nazwa>
+# ?uzyj <nazwa>
 
 Aktywuje wybrany przedmiot z ekwipunku (boostery kasy, expa, odznaki itd.)
 Przykład użycia: `?uzyj cash7d` (aktywuje boost kasy)
@@ -40,4 +40,4 @@ Możesz zobaczyć boosty, lootboxy, odznaki i inne.
 Przykład użycia: `?ekwipunek`.
 
 
-#?balans - sprawdź swój stan konta i aktywne boosty.
+# ?balans - sprawdź swój stan konta i aktywne boosty.
