@@ -29,6 +29,7 @@ Odznaki to unikalne oznaczenia wizualne w profilu, które pokazują Twoją rolę
 
 # Jak zdobywać odznaki?
 
-Część z nich przydzielana jest ręcznie przez administrację (👑, 🔥, 🌟, 🤝)
+Większość z nich przydzielana jest ręcznie przez administrację (👑, 🔥, 🌟, 🤝)
 
-Inne przyznawane są automatycznie na podstawie aktywności (💬, 🎙️, 🏅)
+Część jest jednak do kupienia w ?sklep -  🎙️,  💬.
+
