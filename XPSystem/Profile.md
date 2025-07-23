@@ -61,9 +61,10 @@ Lista odznak:
 
 Niektóre odznaki mają kolor profilu przypisany do nich, Np.
 Zarząd - czerwony
-<img width="441" height="692" alt="image" src="https://github.com/user-attachments/assets/bb6af70a-2b28-485a-9b28-67e1b3a2c89c" />
+<img width="400" height="641" alt="image" src="https://github.com/user-attachments/assets/2a5f6a5f-c049-4721-b261-f88e237939c7" />
+
 Wygrany giveaway - fioletowy
-<img width="406" height="597" alt="image" src="https://github.com/user-attachments/assets/7290e207-2938-44f9-b1a7-b7eab6db698a" />
+<img width="380" height="571" alt="image" src="https://github.com/user-attachments/assets/8032fd3c-db01-478f-867f-0c0f4cda41cb" />
 
 
 Administracja -
