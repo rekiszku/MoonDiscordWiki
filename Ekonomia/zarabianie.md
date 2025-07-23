@@ -29,3 +29,8 @@ W sklepie możesz kupić boosty, które dają dodatkowe profity:
 
 Po zakupie użyj komendy `?uzyj <nazwa_boosta>`, np. `?uzyj cash7d.`
 Boost działa od momentu użycia i sumuje się czas, jeśli kupisz kolejne, czyli np. jak odbierzesz 2 boosty na 1d, będziesz mieć boosta na 2 dni.
+
+#4 Balans
+
+
+Aby sprawdzić swój balans, boosty, miejsce w topce, użyj komendy `?balans`.
