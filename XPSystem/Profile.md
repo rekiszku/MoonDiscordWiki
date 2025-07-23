@@ -80,8 +80,7 @@ Lista ostatnich komentarzy reputacji.
 
 
 # 🗣️ Cytat
-Cytat zaequipowany komendą ?uzyjcytat 
-
+Cytat zaequipowany komendą ?uzyjcytat | Więcej info w innym pliku
 
 
 
