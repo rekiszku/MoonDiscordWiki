@@ -1,4 +1,4 @@
-<img width="238" height="53" alt="image" src="https://github.com/user-attachments/assets/cd54f99d-c5bc-4510-81a8-a70522736303" /># Cytaty 
+# Cytaty 
 
 Siemano, dodałem cytaty do profili. 
 > Jak one działają?
