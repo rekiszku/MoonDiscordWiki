@@ -32,5 +32,3 @@ Odznaki to unikalne oznaczenia wizualne w profilu, które pokazują Twoją rolę
 Część z nich przydzielana jest ręcznie przez administrację (👑, 🔥, 🌟, 🤝)
 
 Inne przyznawane są automatycznie na podstawie aktywności (💬, 🎙️, 🏅)
-
-Giveaway i eventowe odznaki (🎁, 🎯) zdobywasz biorąc udział w specjalnych wydarzeniach
