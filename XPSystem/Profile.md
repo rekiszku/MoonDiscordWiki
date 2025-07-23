@@ -59,17 +59,8 @@ Lista odznak:
 | 🧠      | Pomysłodawca                       
 | 🐞      | Reporter Bugów                     
 
-Niektóre odznaki mają kolor profilu przypisany do nich, Np.
-Zarząd - czerwony:
+Niektóre odznaki mają kolor profilu przypisany do nich.
 
-<img width="400" height="641" alt="image" src="https://github.com/user-attachments/assets/2a5f6a5f-c049-4721-b261-f88e237939c7" />
-
-Wygrany giveaway - fioletowy:
-
-<img width="380" height="571" alt="image" src="https://github.com/user-attachments/assets/8032fd3c-db01-478f-867f-0c0f4cda41cb" />
-
-
-Administracja -
 
 # Rangi funkcyjne (Administracja)
 
