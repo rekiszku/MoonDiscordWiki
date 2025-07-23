@@ -24,7 +24,7 @@ Bot sprawdza to automatycznie co minutę i przyznaje nagrodę.
 
 W sklepie możesz kupić boosty, które dają dodatkowe profity: 
 > Boost kasy: Zwiększa zarobki o 40% na czas boosta.
-> Boost expa: Podwaja zdobywany exp na czas boosta.
+> Boost expa: Zwiększa zarobki XP o 40%  na czas boosta.
 
 
 Po zakupie użyj komendy `?uzyj <nazwa_boosta>`, np. `?uzyj cash7d.`
