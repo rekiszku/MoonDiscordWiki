@@ -7,6 +7,11 @@ Reputacja  pozwala innym graczom nagradzać Cię za pomoc, aktywność lub po pr
 
 📌 Twoja reputacja jest widoczna w komendzie .profil.
 
+Wszystkie repy mają swoje ID:  
+<img width="370" height="86" alt="image" src="https://github.com/user-attachments/assets/cc2bc8ad-5400-4068-b4eb-1d3465209911" />
+Przy złamaniu regulaminu w repach, jest nakładany ban na repy.
+<img width="420" height="68" alt="image" src="https://github.com/user-attachments/assets/15e8e045-e33d-4b2d-87a4-6f4485f03d9d" />
+
 
 # 🏅 Odznaki
 Odznaki to unikalne oznaczenia wizualne w profilu, które pokazują Twoją rolę, osiągnięcia lub specjalny status. Każda z nich ma opis i kolor.
