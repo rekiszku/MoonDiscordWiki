@@ -40,4 +40,5 @@ Możesz zobaczyć boosty, lootboxy, odznaki i inne.
 Przykład użycia: `?ekwipunek`.
 
 
-# ?balans - sprawdź swój stan konta i aktywne boosty.
+# ?balans 
+ sprawdź swój stan konta i aktywne boosty.
