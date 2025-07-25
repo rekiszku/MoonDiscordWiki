@@ -7,9 +7,8 @@ Reputacja  pozwala innym graczom nagradzać Cię za pomoc, aktywność lub po pr
 
 📌 Twoja reputacja jest widoczna w komendzie .profil.
 
-Wszystkie repy mają swoje ID. Przy złamaniu regulaminu, osoba zostawiająca dostaje blokadę na repy na 10 dni.
-
 <img width="485" height="478" alt="image" src="https://github.com/user-attachments/assets/6d130840-af87-4312-aac3-b5fb6657e675" />
+
 
 
 # 🏅 Odznaki
