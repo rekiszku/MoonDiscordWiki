@@ -74,9 +74,6 @@ Przykłady:
 <img width="217" height="82" alt="image" src="https://github.com/user-attachments/assets/13ebe82e-bd5a-4fc0-92f4-4a6b29912875" />
 
 
-# 📝 Komentarze
-
-Lista ostatnich komentarzy reputacji.
 
 
 # 🗣️ Cytat
