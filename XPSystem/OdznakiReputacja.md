@@ -6,6 +6,8 @@ Reputacja  pozwala innym graczom nagradzać Cię za pomoc, aktywność lub po pr
 - Użytkownicy mogą przyznawać Ci reputację specjalną komendą `.rep @user`.
 
 📌 Twoja reputacja jest widoczna w komendzie .profil.
+
+
 <img width="391" height="147" alt="image" src="https://github.com/user-attachments/assets/9f70cb57-48b7-49c9-9732-6d9263ffece9" />
 
 Komentarze dostępne od następnej aktualizacji.
