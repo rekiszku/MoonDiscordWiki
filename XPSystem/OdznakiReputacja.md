@@ -7,8 +7,8 @@ Reputacja  pozwala innym graczom nagradzać Cię za pomoc, aktywność lub po pr
 
 📌 Twoja reputacja jest widoczna w komendzie .profil.
 
-<img width="485" height="478" alt="image" src="https://github.com/user-attachments/assets/6d130840-af87-4312-aac3-b5fb6657e675" />
-
+<img width="453" height="255" alt="image" src="https://github.com/user-attachments/assets/08c283ae-872b-444c-bda2-b13dd7bdfdae" />
+-# Komentarze dostępne od następnej aktualizacji.
 
 
 # 🏅 Odznaki
