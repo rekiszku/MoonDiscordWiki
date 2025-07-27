@@ -76,9 +76,6 @@ Przykłady:
 
 
 
-# 🗣️ Cytat
-Cytat zaequipowany komendą ?uzyjcytat | Więcej info w innym pliku
-
 
 
 
