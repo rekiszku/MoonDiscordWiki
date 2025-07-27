@@ -1,28 +1,17 @@
-# Lootboxy z cytatami 📦📝
- W sklepie dostępne są specjalne lootboxy, które po otwarciu dają unikalne cytaty.
+# Lootboxy  📦📝
 
-Cytaty możesz kolekcjonować, przeglądać i ustawiać jako swój profilowy tekst.
+Po otworzeniu lootboxa, masz szansę na:
 
-Komendy związane z cytatami:
-
-- ?cytaty — pokaż listę swoich cytatów
-
-- ?uzyjcytat <ID> — ustaw wybrany cytat jako swój
-
--#  Na ten moment, cytaty są do zdobycia tylko z lootboxów.
-
-
-# Przykład zarządzania cytatami:
-
-**1. Kup lootbox z cytatem.**
-`?kup lootbox`
-
-**2. Użyj lootbox , by otworzyć i dostać cytat**
-`?uzyj lootbox`
-
-**3. Sprawdź swoje cytaty:**
-`?cytaty`
-
-**4. Ustaw cytat na profil**
-`?uzyjcytat ID`
-
+- **🌍 Globalny Boost XP +100% | 15 minut** - Podwójny EXP dla całego serwera na 15 minut!
+- **💲Booster osobisty $ na 14 dni** - 40% więcej zarobku za voice lub pisanie na czacie na 14 dni!
+- **💲Booster osobisty $ na 7 dni!** - 40% więcej zarobku za voice lub pisanie na czacie na 7 dni!
+- **💲Booster osobisty $ na 3 dni!** - 40% więcej zarobku za voice lub pisanie na czacie na 3 dni!
+- **💲Booster osobisty $ na 1d!** - 40% więcej zarobku za voice lub pisanie na czacie na 1d!
+- **📈 Boost XP +100% na 14d!** - **100%** więcej EXPA na 14d!
+- **📈 Boost XP +100% na 7d!** - **100%** więcej EXPA na 7d!
+- **📈 Boost XP +100% na 3d!** - **100%** więcej EXPA na 3d!
+- **📈 Boost XP +100% na 1d!** - **100%** więcej EXPA na 1d!
+- **💰10000$ serwerowych!**
+- **💰7500$ serwerowych!**
+- **💰5000$ serwerowych!**
+- **💰2500$ serwerowych!**
