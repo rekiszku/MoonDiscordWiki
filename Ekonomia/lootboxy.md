@@ -1,7 +1,7 @@
 # Lootboxy  📦📝
 
 Po otworzeniu lootboxa, masz szansę na:
-
+- **🚀Ranga MOON! | 14 dni - Ranga MOON na serwerze minecraft!**
 - **🌍 Globalny Boost XP +100% | 15 minut** - Podwójny EXP dla całego serwera na 15 minut!
 - **💲Booster osobisty $ na 14 dni** - 40% więcej zarobku za voice lub pisanie na czacie na 14 dni!
 - **💲Booster osobisty $ na 7 dni!** - 40% więcej zarobku za voice lub pisanie na czacie na 7 dni!
