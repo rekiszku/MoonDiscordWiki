@@ -42,3 +42,8 @@ Przykład użycia: `?ekwipunek`.
 
 # ?balans 
  sprawdź swój stan konta i aktywne boosty.
+
+
+# ?top
+
+Sprawdź topkę boosta
