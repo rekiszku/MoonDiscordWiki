@@ -2,7 +2,7 @@ XP (punkty doświadczenia) są podstawowym systemem awansu na serwerze. Oto jak 
 
 
 # 💬 1. Wiadomości na czacie
-Każda wiadomość daje losową ilość expa, max. 50
+Każda wiadomość daje losową ilość expa
 
 Nie dostajesz expa za każdą wiadomość, tylko co jakiś czas.
 
