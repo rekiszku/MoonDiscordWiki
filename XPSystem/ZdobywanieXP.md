@@ -8,7 +8,7 @@ Nie dostajesz expa za każdą wiadomość, tylko co jakiś czas.
 
 Antyspam: bot ignoruje wiadomości z linkami, spamem i bardzo krótkie
 
-📈 Im więcej piszesz z sensem, tym szybciej awansujesz.
+📈 Im więcej piszesz, tym szybciej awansujesz.
 
 
 
@@ -17,19 +17,18 @@ Antyspam: bot ignoruje wiadomości z linkami, spamem i bardzo krótkie
 
 Bycie aktywnym na voice też daje XP – ale mniej niż czat:
 
-- 1 minuta na VC = XP (trochę mniej niż za chat.)
+- czas na VC = XP (trochę mniej niż za chat.)
 
 - Musisz mieć aktywny mikrofon (nie być zmutowanym / nie mieć wyciszonego dźwięku)
-
-- Bot odlicza XP co minutę.
 
 
   # 🚀 3. Boostery XP
 
 Możesz kupić lub wygrać boostery, które zwiększają Twoje tempo zdobywania XP:
 
-- Booster XP – zwiększa zyski XP o 40% przez określony czas
+- Booster XP – zwiększa zyski XP o 100% przez określony czas
 
-Można je zdobyć np. z ?lootbox, eventów lub w ?sklep
+
+Można je zdobyć np. z lootboxow,  lub za zakup w sklepie ?sklep
 
 Booster włącza się automatycznie po użyciu komendy ?uzyj z boostem w ekwipunku.
