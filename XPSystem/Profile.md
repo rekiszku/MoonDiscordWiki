@@ -75,8 +75,6 @@ Przykłady:
 
 
 
-# Aby odebrać rangę za level, użyj komendy /odbierz-range
-
 
 
 
