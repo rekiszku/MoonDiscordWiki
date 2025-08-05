@@ -13,3 +13,6 @@ Wiki komend na discordzie.
 
 
 slash komendy w bocie ekonomicznym zostaną dodane w następnej aktualizacji bota.
+
+
+Odwołania od banów discord: https://docs.google.com/forms/d/1xi2nzFsSkLskHcrp9y3UBqlIz0VY-0kPU6uOzmEHsNE
